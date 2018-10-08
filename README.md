@@ -1,12 +1,19 @@
 # Voting-Management-System
 This is window based application using jframe
 
-Database Software:- POSTGRES
+##Software
+- Netbeans
+- https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=all
 
- create database named as VOTING MANAGEMENT SYSTEM
+## Front End
+- java swing
+## Back End 
+- posgres data base
+- https://www.postgresql.org/download/windows/
+- username=postgre
+- password=DBMS
 
+## Working Video
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=vL1COucMHyY&t=29s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vL1COucMHyY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YvL1COucMHyY/0.jpg)](http://www.youtube.com/watch?v=vL1COucMHyY "Video Title")
 
