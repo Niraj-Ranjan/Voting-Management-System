@@ -24,7 +24,7 @@ This is window based application using jframe
 
  <br>
   
-   <img src="https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/AdminLogin.PNG"  width="50%">
+   <img src="https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/AdminLogin.PNG"  width="50%" height="70%">
   
   <br>
  Login Screen
