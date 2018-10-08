@@ -21,23 +21,11 @@ This is window based application using jframe
 
 
 <h1 align="center">
-
- <br>
-  
    <img src="https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/splash.PNG"  width="50%" height="10%">
-  
-  <br>
- Login Screen
-  <br>
-
-
-  <br>
+ Splash Screen
   
    <img src="https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/AdminLogin.PNG"  width="50%">
-  
-  <br>
  Login Screen
-  <br>
   
   
   
