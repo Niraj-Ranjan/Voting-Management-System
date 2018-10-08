@@ -15,6 +15,6 @@ This is window based application using jframe
 
 ## Working Video
 
-[![Watch the video](https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/AdminLogin.PNG)](https://www.youtube.com/watch?v=vL1COucMHyY&t=29s)
+[![Watch the video](https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/Screenshot%20(139).png)](https://www.youtube.com/watch?v=vL1COucMHyY&t=29s)
 
 
