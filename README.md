@@ -14,8 +14,7 @@ This is window based application using jframe
 - password=DBMS
 
 ## Working Video
-<h1 align="center">
+
 [![Watch the video](https://github.com/Niraj-Ranjan/Voting-Management-System/blob/master/Screenshot/AdminLogin.PNG)](https://www.youtube.com/watch?v=vL1COucMHyY&t=29s)
 
 
-</h1>
